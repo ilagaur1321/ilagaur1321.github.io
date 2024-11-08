@@ -1,16 +1,33 @@
-<h1 align="center">Hi 👋, I'm Ila Gaur</h1>
-<h3 align="center">Graduate Student at Rice University</h3>
+# Python Learning Journey <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611913jv3zyxnsdk2vmrk3qf5ycgelmyxpd9cfxn9bk&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Python Learning Journey GIF" width="300" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilagaur1321&label=Profile%20views&color=0e75b6&style=flat" alt="ilagaur1321" /> </p>
 
-- 🔭 I'm currently studying Engineering Management and Leadership **at Rice University**
+Welcome to my **Python Learning Journey**! 👋
 
-- 📫 How to reach me **ig36@rice.edu**
+I’m a beginner in Python programming, and this repository serves as a place for me to document my learning and track my progress. I’m starting with the basics of Python and will gradually expand my knowledge by working on exercises, solving problems, and building small projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ila-gaur-january13b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ila-gaur-january13b/" height="30" width="40" /></a>
-</p>
+This repository is **a learning log** where I will store the code I write, reflect on the concepts I’m learning, and monitor my improvement as I work through different stages of Python development.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🚀 Learning Goals
+- Start with **basic Python syntax**: variables, loops, conditionals, functions, etc.
+- Progress to more advanced topics like **algorithms**, **data structures**, and **object-oriented programming**.
+- Build **small projects** to apply what I’ve learned.
+- Solve coding challenges to improve problem-solving skills.
+
+---
+
+## What’s Inside:
+- **Basic Python Scripts**: Simple exercises that focus on syntax and basic programming concepts.
+- **Projects**: Small Python applications that I’m building as I continue learning (e.g., calculators, games, etc.).
+- **Algorithm Challenges**: Solutions to problems I solve on platforms like **LeetCode**, **HackerRank**, or other coding challenge websites.
+
+---
+
+## Why This Repo?
+This repository is a **personal learning journal** for me to:
+- Track my progress as I learn Python.
+- Organize my code and ideas in one place.
+- Stay motivated by seeing how much I improve over time.
+- Get feedback from others (if you’d like to offer suggestions or improvements!).
+
+---
+
